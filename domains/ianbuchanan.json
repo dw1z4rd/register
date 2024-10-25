@@ -1,0 +1,18 @@
+{
+    "owner": {
+        "username": "dw1z4rd",
+        "email": "toolna@gmail.com"
+    },
+    "record": {
+        "A": [
+	    "108.93.213.21"
+	],
+	"CAA": [
+	    {
+	        "flags": 0,
+	        "tag": "issue",
+	        "value": "letsencrypt.org"
+	    }
+	]
+    }
+}
